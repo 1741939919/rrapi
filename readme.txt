@@ -17,3 +17,4 @@ add dev2 test check add comm
 
 add save stash
  
+m too git stash
